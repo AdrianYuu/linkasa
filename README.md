@@ -2,9 +2,9 @@
 
 ## Description
 
-An Electron desktop application built with React and TypeScript that provides a comprehensive, modular suite of tools for airport operations management. Linkasa centralizes operational workflows — staff and role management, employee training and development, baggage handling and security incident tracking, cargo and logistics, boarding pass and customs/declaration processing, budget requests and financial tracking, and equipment and maintenance tracking — into a single, offline-capable desktop client.
+LinKasa is a desktop Electron app built with React and TypeScript that brings airport operations together in one place — staff and role management, baggage and cargo handling, training, boarding/declaration processing, budgeting, and internal communications.
 
-The app integrates Firebase for authentication, real-time database updates, cloud storage, and notifications, enabling synchronized data across devices and teams. It also includes interactive visual aids (terminal and airport maps), chat and broadcast communication channels for staff coordination, and role-based interfaces to ensure users see only the tools relevant to their responsibilities. The architecture is modular to make it easy to add new operational modules and scale the system to different airport sizes.
+The app relies on Firebase for authentication, real-time data, cloud storage, and notifications. An active internet connection is required for normal operation because the app connects to Firebase services.
 
 ## Features
 
